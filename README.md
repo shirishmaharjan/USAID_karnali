@@ -9,3 +9,5 @@ Annual Trend, Slope, P value done for 4 districts
 Seasonal and Bioclim clipping left
 
 ## Seasonal Trend (07.03.2024)
+
+- Calculated Annual and seasonal trend with slope and p value using R code. 
