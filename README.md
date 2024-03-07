@@ -16,4 +16,4 @@ Seasonal and Bioclim clipping left
 
 - can you please also clip the current potential suitability for each palika of those district. You don’t have to run the model, just need to clip the results of the current and future 540 scenario
 
-- Used python to clip all the individual palika for 4 districts.
+- Used python to clip all the individual palika for 4 districts. Everything is in "C:\GIIS\USAID Karnali\Biomod clipping" folder
