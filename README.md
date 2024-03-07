@@ -7,3 +7,5 @@ Task 2 : Clip the current potential suitability for each palika of those distric
 Annual Trend, Slope, P value done for 4 districts
 
 Seasonal and Bioclim clipping left
+
+## Seasonal Trend (07.03.2024)
