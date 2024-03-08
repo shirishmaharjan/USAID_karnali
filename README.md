@@ -22,3 +22,7 @@ Seasonal and Bioclim clipping left
 
 - Found only two species which is active in those 4 districts.
 
+## Clipped all the palika of 4 districts according to current and 540 scenario 
+
+- Output is in "C:\GIIS\USAID Karnali\Biomod clipping" folder
+
