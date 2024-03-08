@@ -25,4 +25,5 @@ Seasonal and Bioclim clipping left
 ## Clipped all the palika of 4 districts according to current and 540 scenario 
 
 - Output is in "C:\GIIS\USAID Karnali\Biomod clipping" folder
+- Email sent to UBS on 08.03.2024 on 11:34 AM
 
